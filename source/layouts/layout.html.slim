@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    meta charset="utf-8"
+    meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
+    title= current_page.data.title || "Open Minded Innovations Backbone React Template"
+    
+    = stylesheet_link_tag "application"
+  
+  body class= page_classes
+    .container
+      = yield
+
+
+    = javascript_include_tag "application"

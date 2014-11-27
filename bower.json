@@ -1,0 +1,24 @@
+{
+  "name": "middleman backbone react template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jbhatab/middleman-backbone-react-template",
+  "authors": [
+    "jbhatab <jbhatab@gmail.com>"
+  ],
+  "description": "Template for backbone and react using middleman.",
+  "keywords": [
+    "middleman",
+    "backbone",
+    "react"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "backbone": "~1.1.2",
+    "react": "~0.12.1",
+    "jquery": "~2.1.1",
+    "backbone-react-component": "~0.7.2",
+    "bootstrap-sass": "~3.0.2"
+  }
+}

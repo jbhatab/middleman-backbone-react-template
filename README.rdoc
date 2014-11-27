@@ -13,7 +13,7 @@ An exmample post model and collection have been setup to show a complete interac
 
 === Setup
 
-git clone https://github.com/magalhas/backbone-react-component.git
+git clone https://github.com/jbhatab/middleman-backbone-react-template.git
 
 bundle install
 

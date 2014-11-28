@@ -2,6 +2,8 @@
 
 Middleman template with backbone, react, slim, sass, bower, and bootstrap.
 
+Screencast on the template: https://www.youtube.com/watch?v=iul1fWHVU6A
+
 I am using backbone-react-component to handle data for react,
 https://github.com/magalhas/backbone-react-component
 
